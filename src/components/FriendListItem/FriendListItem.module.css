@@ -1,0 +1,17 @@
+.status__online{
+    color: green;
+}
+.status__offline{
+    color: red;
+}
+.card__text_content{
+    padding-block: 3px;
+    border-radius: 20px;
+    background-color:  rgba(0 ,0, 0, 0.3);
+    color:  rgba(0 ,0, 0, 0.7);
+    font-weight: 700;
+    text-align: center;
+}
+.card__image{
+width: 100%;
+}

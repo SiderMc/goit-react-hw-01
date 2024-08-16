@@ -1,0 +1,13 @@
+.friends__list{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px;
+    
+}
+.friends__list_item{
+    padding: 10px 5px;
+    border-radius: 20px;
+    width: calc((100% - 62px) /5 );
+    background-color: lightgrey;
+}
